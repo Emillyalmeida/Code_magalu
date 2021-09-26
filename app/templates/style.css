@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(160, 219, 255);;
+}
+
+.nome-equipe {
+
+    height: 100px;
+    background-color: rgb(7, 84, 133);
+    color: whitesmoke;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.cadrastro {
+    background-color: black;
+    color: whitesmoke;
+    height: 50px;
+
+}
